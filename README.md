@@ -1,4 +1,4 @@
-# cs2_info
+# Counter-Strike
 
 A new Flutter project.
 
